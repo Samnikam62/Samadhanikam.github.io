@@ -29,7 +29,7 @@ Welcome to the repository for my personal portfolio website! This is where I sho
 1. Clone the repository:
 
     ```bash
-    git clone https://Samadhanikam.github.io/Portfolio.git
+    git clone https://github.com/Samnikam62/Samadhanikam.github.io.git
     ```
 
 2. Navigate to the project directory:
